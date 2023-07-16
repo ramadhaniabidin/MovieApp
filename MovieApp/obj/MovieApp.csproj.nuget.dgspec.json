@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\MovieApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp.API\\MovieApp.API\\MovieApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp.API\\MovieApp.API\\MovieApp.API.csproj",
+        "projectName": "MovieApp.API",
+        "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp.API\\MovieApp.API\\MovieApp.API.csproj",
+        "packagesPath": "C:\\Users\\Bidin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp.API\\MovieApp.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bidin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\MovieApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\MovieApp.Models.csproj"
+              },
+              "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Repository\\MovieApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Repository\\MovieApp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\MovieApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\MovieApp.Models.csproj",
+        "projectName": "MovieApp.Models",
+        "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\MovieApp.Models.csproj",
+        "packagesPath": "C:\\Users\\Bidin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bidin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Repository\\MovieApp.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Repository\\MovieApp.Repository.csproj",
+        "projectName": "MovieApp.Repository",
+        "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Repository\\MovieApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\Bidin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bidin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\MovieApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\MovieApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\MovieApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\MovieApp.csproj",
+        "projectName": "MovieApp",
+        "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\MovieApp.csproj",
+        "packagesPath": "C:\\Users\\Bidin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bidin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp.API\\MovieApp.API\\MovieApp.API.csproj": {
+                "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp.API\\MovieApp.API\\MovieApp.API.csproj"
+              },
+              "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\MovieApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Models\\MovieApp.Models.csproj"
+              },
+              "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Repository\\MovieApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp.Repository\\MovieApp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

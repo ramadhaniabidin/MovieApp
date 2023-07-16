@@ -1,0 +1,15 @@
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Repository.deps.json
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Repository.dll
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Repository.pdb
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Models.dll
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Models.pdb
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.csproj.AssemblyReference.cache
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.AssemblyInfo.cs
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.csproj.CopyComplete
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.dll
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\refint\MovieApp.Repository.dll
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.pdb
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Repository\obj\Debug\net6.0\ref\MovieApp.Repository.dll

@@ -1,0 +1,15 @@
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\bin\Debug\net6.0\MovieApp.Database.deps.json
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\bin\Debug\net6.0\MovieApp.Database.dll
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\bin\Debug\net6.0\MovieApp.Database.pdb
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\bin\Debug\net6.0\MovieApp.Models.dll
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\bin\Debug\net6.0\MovieApp.Models.pdb
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\MovieApp.Database.csproj.AssemblyReference.cache
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\MovieApp.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\MovieApp.Database.AssemblyInfoInputs.cache
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\MovieApp.Database.AssemblyInfo.cs
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\MovieApp.Database.csproj.CoreCompileInputs.cache
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\MovieApp.Database.csproj.CopyComplete
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\MovieApp.Database.dll
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\refint\MovieApp.Database.dll
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\MovieApp.Database.pdb
+C:\Users\Bidin\Documents\BELAJAR\C#\.NET\MVC\MovieApp\MovieApp.Database\obj\Debug\net6.0\ref\MovieApp.Database.dll
