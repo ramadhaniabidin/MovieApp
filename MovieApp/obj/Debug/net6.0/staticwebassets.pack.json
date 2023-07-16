@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\MovieApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
       "Id": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\css\\MyStyle.css",
       "PackagePath": "staticwebassets\\css\\MyStyle.css"
     },

@@ -5,29 +5,34 @@
     Layout = null;
 }
 
-<html ng-app="app" ng-controller="ctrl">
-    <head>
-        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-grid.css"/>
-        <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-        <link rel="stylesheet" href="~/MovieApp.styles.css" asp-append-version="true" />
-        <link rel="stylesheet" href="~/css/MyStyle.css"/>
-
-        <script src="~/js/Library/angular.min.js"></script>
-        <script src="~/js/Library/angular-filter.js"></script>
-        <script src="~/js/Login.js"></script>
-    </head>
-
-    <body>
-        <div class="row">
-            <div class="row">
-                <label>Username</label>
-                <input ng-model="username" class="input-row"/>
-                <label>Password</label>
-                <input ng-model="password" class="input-row"/>
-                <button class="btn btn-primary" ng-click="Login()">Login</button>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Login.css">
+    <title>Login</title>
+</head>
+<body>
+    <section class="container">
+        <div class="login-container">
+            <div class="circle circle-one"></div>
+            <div class="form-container">
+                <img src="https://raw.githubusercontent.com/hicodersofficial/glassmorphism-login-form/master/assets/illustration.png" alt="illustration" class="illustration" />
+                <h1 class="opacity">LOGIN</h1>
+                <form>
+                    <input type="text" placeholder="USERNAME" />
+                    <input type="password" placeholder="PASSWORD" />
+                    <button class="opacity">SUBMIT</button>
+                </form>
+                <div class="register-forget opacity">
+                    <a href="">REGISTER</a>
+                    <a href="">FORGOT PASSWORD</a>
+                </div>
             </div>
+            <div class="circle circle-two"></div>
         </div>
-
-
-    </body>
+        <div class="theme-btn-container"></div>
+    </section>
+</body>
 </html>

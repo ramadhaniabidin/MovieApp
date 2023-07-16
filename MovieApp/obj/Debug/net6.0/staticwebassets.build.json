@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5RmI9mh1IJMrHC0kqTg5Ggzplu9cuk8y51wata07LK0=",
+  "Hash": "nrGP4Mmvo2mphJq//gvQkvGi6w2nXV/hw5F+BwY6LI0=",
   "Source": "MovieApp",
   "BasePath": "_content/MovieApp",
   "Mode": "Default",
@@ -61,6 +61,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\css\\Login.css",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "css/Login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
     },
     {
       "Identity": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\css\\MyStyle.css",
