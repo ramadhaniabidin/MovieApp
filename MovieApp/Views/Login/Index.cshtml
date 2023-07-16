@@ -6,11 +6,17 @@
 }
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="app" ng-controller="ctrl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="~/css/Login.css">
+    <link rel="stylesheet" href="~/css/MyStyle.css"/>
+
+    <script src="~/js/Library/angular.min.js"></script>
+    <script src="~/js/Library/angular-filter.js"></script>
+    <script src="~/js/Login.js"></script>
+
     <title>Login</title>
 </head>
 <body>
@@ -18,12 +24,13 @@
         <div class="login-container">
             <div class="circle circle-one"></div>
             <div class="form-container">
-                <img src="https://raw.githubusercontent.com/hicodersofficial/glassmorphism-login-form/master/assets/illustration.png" alt="illustration" class="illustration" />
+                @*<img src="https://raw.githubusercontent.com/hicodersofficial/glassmorphism-login-form/master/assets/illustration.png" alt="illustration" class="illustration" />*@
+                @*<img src="~/images/login.png" alt="illustration" class="illustration"/>*@
                 <h1 class="opacity">LOGIN</h1>
                 <form>
-                    <input type="text" placeholder="USERNAME" />
-                    <input type="password" placeholder="PASSWORD" />
-                    <button class="opacity">SUBMIT</button>
+                    <input type="text" placeholder="USERNAME" ng-model="username"/>
+                    <input type="password" placeholder="PASSWORD" ng-model="password"/>
+                    <button class="opacity" ng-click="Login()">SUBMIT</button>
                 </form>
                 <div class="register-forget opacity">
                     <a href="">REGISTER</a>

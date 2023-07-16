@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\images\\login.png",
+      "PackagePath": "staticwebassets\\images\\login.png"
+    },
+    {
       "Id": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\js\\Library\\angular-filter.js",
       "PackagePath": "staticwebassets\\js\\Library\\angular-filter.js"
     },

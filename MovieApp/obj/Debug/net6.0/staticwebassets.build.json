@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nrGP4Mmvo2mphJq//gvQkvGi6w2nXV/hw5F+BwY6LI0=",
+  "Hash": "+tnKP1CZtn86w0eB3LpbXqfr9c+MdWrNgmUudBu6faw=",
   "Source": "MovieApp",
   "BasePath": "_content/MovieApp",
   "Mode": "Default",
@@ -129,6 +129,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\images\\login.png",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "images/login.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login.png"
     },
     {
       "Identity": "C:\\Users\\Bidin\\Documents\\BELAJAR\\C#\\.NET\\MVC\\MovieApp\\MovieApp\\wwwroot\\js\\Library\\angular.min.js",
